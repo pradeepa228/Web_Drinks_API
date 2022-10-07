@@ -4,6 +4,7 @@ using Web_Drinks_API.Models;
 using NUnit.Framework;
 using FluentAssertions;
 using Microsoft.AspNetCore.Routing;
+
 namespace Web_Drinks_API.Tests.Controllers
 {
     public class CoffeeControllerTests

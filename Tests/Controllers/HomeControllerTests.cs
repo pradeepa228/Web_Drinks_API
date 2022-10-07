@@ -1,7 +1,9 @@
-﻿using API_Interactive_Lab_1.Controllers;
-using FluentAssertions;
+﻿using Microsoft.AspNetCore.Mvc;
 using NUnit.Framework;
-namespace API_Interactive_Lab_1.Tests
+using Web_Drinks_API.Controllers;
+using FluentAssertions;
+
+namespace Web_Drinks_API.Tests.Controllers
 {
     public class HomeControllerTests
     {

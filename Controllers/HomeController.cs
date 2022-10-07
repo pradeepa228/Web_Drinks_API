@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-namespace API_Interactive_Lab_1.Controllers
+
+namespace Web_Drinks_API.Controllers
 {
     [ApiController]
     [Route("[controller]")]
